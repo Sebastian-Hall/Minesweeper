@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cell_0.png</file>
+        <file>images/cell_1.png</file>
+        <file>images/cell_2.png</file>
+        <file>images/cell_3.png</file>
+        <file>images/cell_4.png</file>
+        <file>images/cell_5.png</file>
+        <file>images/cell_6.png</file>
+        <file>images/cell_7.png</file>
+        <file>images/cell_8.png</file>
+        <file>images/cell_closed.png</file>
+        <file>images/flag.png</file>
+        <file>images/mine.png</file>
+        <file>images/red_mine.png</file>
+        <file>images/face_alive.png</file>
+        <file>images/face_dead.png</file>
+        <file>images/face_heidi.png</file>
+    </qresource>
+</RCC>
